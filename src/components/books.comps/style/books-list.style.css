@@ -1,0 +1,13 @@
+@import "../../../util/styled/index.css";
+
+.books-con-grid__book-box{
+  
+  background-color: var(--blue);
+  height: 100px;
+  padding: 10px;
+  color: var(--white);
+  font-family:  var(--font1);
+  
+  
+  
+}
